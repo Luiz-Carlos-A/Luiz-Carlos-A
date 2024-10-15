@@ -23,7 +23,7 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I have studied React.js, SQL and Python.
+  - 💬 I have studied React.js, C++ and Python.
   - 💬 I really like creating facial recognition applications using Artificial Intelligence. 
   - ⚡ In my free time I like to develop games and make pixel art.
 </details>
