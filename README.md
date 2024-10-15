@@ -14,9 +14,9 @@
 <p>
   Hi 👋, I'm Luiz! A passionate student in Computer Science and Artificial Intelligence.
 
-  - 🌱 I'm looking for my first internship opportunity.
+  - 🌱 I'm looking for my first internship opportunity in backend development.
 
-  - 🔭 I am currently studying Computer Science.
+  - 🔭 I am currently studying Computer Science in the fourth period.
 </p>
 
 <!-- Dropdown -->
@@ -24,7 +24,7 @@
   <summary>👨‍💻 More about me</summary>
 
   - 💬 I have studied React.js, SQL and Python.
-  - 💬 I really like creating applications using Artificial Intelligence
+  - 💬 I really like creating facial recognition applications using Artificial Intelligence. 
   - ⚡ In my free time I like to develop games and make pixel art.
 </details>
 
@@ -33,7 +33,8 @@
 
 <!-- GithubStats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Carlos-A&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="155" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Carlos-A&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
+</div>
 
 
 
