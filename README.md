@@ -16,14 +16,14 @@
 
   - 🌱 I'm looking for my first internship opportunity in backend development.
 
-  - 🔭 I am currently studying Computer Science in the fourth period.
+  - 🔭 I am currently studying Computer Science in the five period.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I have studied React.js, C++ and Python.
+  - 💬 I have studied Python, Java and Javascript.
   - 💬 I really like creating facial recognition applications using Artificial Intelligence. 
   - ⚡ In my free time I like to develop games and make pixel art.
 </details>
