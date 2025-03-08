@@ -2,7 +2,16 @@
 
 <!--
 **Luiz-Carlos-A/Luiz-Carlos-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá 👋, sou o Luiz! Um estudante apaixonado por Ciência da Computação e Back-end.
 
+🌱 Estou procurando minha primeira oportunidade de estágio em desenvolvimento backend.
+
+🔭 Atualmente estou cursando Ciência da Computação no quinto período.
+
+👨‍💻 Mais sobre mim
+💬 Estudei Python, Java e Javascript.
+💬 Gosto muito de criar aplicações de reconhecimento facial usando Inteligência Artificial.
+⚡ No meu tempo livre gosto de desenvolver jogos e fazer pixel art.
 
 <!--título-->
 <div id="user-content-toc">
@@ -12,33 +21,145 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Luiz! A passionate student in Computer Science and Artificial Intelligence.
+  Olá 👋, sou o Luiz! Um estudante apaixonado por Ciência da Computação e Back-end.
 
-  - 🌱 I'm looking for my first internship opportunity in backend development.
+🌱 Estou procurando minha primeira oportunidade de estágio em desenvolvimento backend.
 
-  - 🔭 I am currently studying Computer Science in the five period.
+🔭 Atualmente estou cursando Ciência da Computação no quinto período.
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim </summary>
 
-  - 💬 I have studied Python, Java and Javascript.
-  - 💬 I really like creating facial recognition applications using Artificial Intelligence. 
-  - ⚡ In my free time I like to develop games and make pixel art.
+  - 💬 Tenho um bom conhecimento em python, javascript e atualmente estudo java.
+  - 💬 Gosto muito de criar aplicações de banco de dados usando python e sql.
+  - ⚡ No meu tempo livre gosto de desenvolver jogos e fazer pixel art.
 </details>
 
 <!-- Links -->
 
 
-<!-- GithubStats -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luiz-Carlos-A&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false&order=1" height="200" alt="stats graph"  />
-</div>
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+          
+<img 
+    align="left" 
+    alt="Postgresql" 
+    title="Postgresql"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+    
+<img 
+    align="left" 
+    alt="Eclipse" 
+    title="Eclipse"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" />
+
+  <img 
+    align="left" 
+    alt="Vscode" 
+    title="Vscode"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+                    
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Sqlite" 
+    title="Sqlite"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
+   
+<img 
+    align="left" 
+    alt="Numpy" 
+    title="Numpy"
+    width="30px" 
+    style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" />
+                 
+
+<br/>
+<br/>
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Luiz-Carlos-A&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="130" 
+      style="padding-Left: 10px;"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiz-Carlos-A&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
 
 
-
-<!-- Tecnologias -->
+<!-- Tecnologias 
 ## Technology:
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,7 +174,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
 </div>
-
+-->
 
 <!-- Skills: Programming Languages -->
 
