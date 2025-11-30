@@ -136,16 +136,5 @@ Olá 👋, sou o Luiz! Um estudante apaixonado por Ciência da Computação e Ba
 <br/>
 <br/>
 
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Luiz-Carlos-A&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-</p>
 
 
