@@ -5,7 +5,7 @@ Olá 👋, sou o Luiz! Um estudante apaixonado por Ciência da Computação e Ba
 
 🌱 Estou procurando minha primeira oportunidade de estágio em desenvolvimento backend.
 
-🔭 Atualmente estou cursando Ciência da Computação no sexto período.
+🔭 Atualmente estou cursando Ciência da Computação no 6° período.
 
 👨‍💻 Mais sobre mim
 💬 Estudei Python, Java e Javascript.
